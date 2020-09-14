@@ -1,3 +1,14 @@
+# Jay Shah
+
+## About Me
+A self-motivated Individual that has multiple years of experience as Systems Engineer and as a software engineer. I enjoy solving problems and build projects using Python. 
+
+
+## Projects
+ - [Zodiac signs] (#)
+ - [project](#)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Jay-Shah10/Jay-Shah/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
