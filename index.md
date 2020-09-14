@@ -1,11 +1,10 @@
-# Jay Shah
 
 ## About Me
 A self-motivated Individual that has multiple years of experience as Systems Engineer and as a software engineer. I enjoy solving problems and build projects using Python. 
 
 
 ## Projects
- - [Zodiac signs] (#)
+ - [Zodiac signs](#)
  - [project](#)
 
 
